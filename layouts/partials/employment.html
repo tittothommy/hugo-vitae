@@ -9,7 +9,7 @@
         <time>{{ .time }}</time>
       </span>
     </header>
-    <p>{{ .Site.Data.hobbies.source }}</p>
+    <p>{{ delimit  .description "<br/>"}}</p>
   </article>
   {{ end }}
 </section>
