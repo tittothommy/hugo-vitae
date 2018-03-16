@@ -5,11 +5,11 @@
     <header>
       <h1>{{ .prof }}</h1>
       <span>
-        <address>{{ .place }}</address>
+        <address><b>{{ .place }}</b></address>
         <time>{{ .time }}</time>
       </span>
     </header>
-    <p>{{ .description }}</p>
+    <p>{{ delimit  .Site.Data.hobbies.source "<br/>"}}</p>
   </article>
   {{ end }}
 </section>
