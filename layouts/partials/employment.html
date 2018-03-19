@@ -10,7 +10,9 @@
       </span>
     </header>
     <ul>
-  <li>{{ delimit  .description "<br/> "}}</li>
+  {{ range .description }}
+    <li>{{ .description }}</li>
+    {{ end }}
 </ul>
   </article>
   {{ end }}
