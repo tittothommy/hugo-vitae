@@ -5,19 +5,19 @@
     <header>
       <h1>{{ .prof }}</h1>
       <span>
-        <address><b>{{ .place }}</b></address>
-        <time>{{ .time }}</time>
+        <address><b>{{ .place }}</b><br/></address>
+        <time>{{ .time }}<br/></time>
       </span>
     </header>
     <ul>
     <li>{{ .description }}</li>
      </ul> 
     <ul>
-      <li><i class="fa fa-ellipsis-v"></i>&nbsp;&nbsp;<small>{{ .description1 }}</small></li>
-      <li><i class="fa fa-ellipsis-v"></i>&nbsp;&nbsp;<small>{{ .description2 }}</small></li>
-      <li><i class="fa fa-ellipsis-v"></i>&nbsp;&nbsp;<small>{{ .description3 }}</small></li>
-      <li><i class="fa fa-ellipsis-v"></i>&nbsp;&nbsp;<small>{{ .description4 }}</small></li>
-      <li><i class="fa fa-ellipsis-v"></i>&nbsp;&nbsp;<small>{{ .description5 }}</small></li>
+      <li><i class="fa fa-ellipsis-v"></i>&nbsp;&nbsp;{{ .description1 }}</li>
+      <li><i class="fa fa-ellipsis-v"></i>&nbsp;&nbsp;{{ .description2 }}</li>
+      <li><i class="fa fa-ellipsis-v"></i>&nbsp;&nbsp;{{ .description3 }}</li>
+      <li><i class="fa fa-ellipsis-v"></i>&nbsp;&nbsp;{{ .description4 }}</li>
+      <li><i class="fa fa-ellipsis-v"></i>&nbsp;&nbsp;{{ .description5 }}</li>
     </ul>
   </article>
   {{ end }}
