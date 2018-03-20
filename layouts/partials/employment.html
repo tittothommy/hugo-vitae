@@ -9,7 +9,13 @@
         <time>{{ .time }}<br/></time>
       </span>
     </header>
+    if:    {{ if .description1 }}true:{{
     <ul>
+    <li>{{ .description }}</li>
+     </ul> 
+    }}
+    {{ else}}false:{{
+      <ul>
     <li>{{ .description }}</li>
      </ul> 
     <ul>
@@ -19,6 +25,7 @@
       <li><i class="fa fa-ellipsis-v"></i>&nbsp;&nbsp;{{ .description4 }}</li>
       <li><i class="fa fa-ellipsis-v"></i>&nbsp;&nbsp;{{ .description5 }}</li>
     </ul>
+    }}{{ end }}
   </article>
   {{ end }}
 </section>
