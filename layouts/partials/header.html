@@ -21,4 +21,20 @@
     <a href="http://twitter.com/{{ .Site.Params.twitter }}"><i class="fa fa-twitter"></i>&nbsp;Twitter</a>
     <a href="http://github.com/{{ .Site.Params.github }}"><i class="fa fa-github"></i>&nbsp;Github</a>
   </p>
+  <section class="thirteen columns">
+  <h1>{{ .Site.Data.skills.name }}</h1>
+  <article>
+    <header>
+      <h1>{{ .Site.Data.skills.title }}</h1>
+    </header>
+    <small>
+    {{ range .Site.Data.skills.source }}
+    <p>
+      {{ range $i, $seq := (seq .stars) }}<i class="fa fa-star"></i>{{ end }}{{ range $i, $seq := (seq (sub 5 (int .stars))) }}<i class="fa fa-star-o"></i>{{ end }}
+        &nbsp;&nbsp;<em>{{ delimit .name "</em>, <em>" "</em> & <em>" }}</em>
+    </p>
+    {{ end }}
+    </small>
+  </article>
+</section>
 </header>
