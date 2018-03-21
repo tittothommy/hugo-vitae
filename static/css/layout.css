@@ -42,7 +42,9 @@ p, address {
 header > h1, section > h1 {
     color: #27A822;
 }
-
+header > h4, section > h4 {
+    color: #27A822;
+}
 header > h1 {
     line-height: 100%;
     font-size: 250%;
