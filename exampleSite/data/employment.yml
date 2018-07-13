@@ -1,27 +1,98 @@
-name: Employment
+name: Experience 
+
 source:
-  - prof: Software Engineer
-    place: Edinburgh, UK
-    time: 2015 to Present
-    description: Lorem ipsum dolor sit amet, his et viris petentium philosophia, at vix debitis deleniti. At vis velit volumus alienum, agam vocent assueverit usu ex.
+  - prof: Senior Solution Architect
+    place: HCL Technologies, The Netherlands and Western Europe
+    time: June, 2017 to Present
+    description: > 
+                  Provide thought leadership to most of the BPM customers using PEGA
+    description1: >
+                  Assist sales deals focusing on PEGA for Global customers
+    description2: >
+                  Head of HCL PEGA competency at ING Bank
+    description3: >
+                  PEGA Lead System architect and Chief Product Owner of 5 teams to create Global PEGA platform
+    description4: >
+                  Orchestrate CI/CD pipelines for PEGA implementations
+    description5: >
+                  Stakeholder management for few Global implementations of PEGA.
+                  
 
-  - prof: iOS Developer
-    place: Glasgow, UK
-    time: 2014 to 2015
-    description: Qui bonorum menandri intellegebat ex, mel quando oblique an. Et eam virtute debitis philosophia, unum ancillae disputationi vim in. Ipsum vidisse meliore ex eum, delectus tacimates conclusionemque has ei. Eam ubique cetero scribentur ne.
+  - prof: Lead System Architect
+    place: Pegasystems B.V., The Netherlands
+    time: June, 2016 to May, 2017
+    description: >
+                  PEGA Lead System architect for PEGA implementations across Europe.
+    description1: >
+                  IT Chapter Lead leading 6 teams for ground up development of business lending at ING bank in Netherlands.
+    description2: >
+                  PEGA Lead System architect involved in compliance upgrade from version 6 to version 7
+    description3: >
+                  Migration of PEGA application from Websphere to Tomcat onto new data center
+    description4: >
+                  Zero touch installation of PEGA and automated the deployment of artifacts at ING bank in Netherlands
+    description5: >
+                  PEGA Lead System architect assisting Infrastructure, Application Server, Database server and decision logic development and architectural best practices at ABN AMRO bank in Netherlands
+           
+  - prof: Senior System Architect
+    place: Pegasystems B.V., The Netherlands
+    time: December, 2012 to May, 2016
+    description: >
+                  PEGA Senior System architect for PEGA implementations across Europe.     
+    description1: >
+                  PEGA Senior System architect involved from POC to build commercial lending application ground up and assist compliance upgrade from version 6 to version 7 for Rabobank in Netherlands
+    description2: >
+                  PEGA Senior System architect involved in build of processes, UI and integration rules for Telecom Italia in Italy
+    description3: >
+                  PEGA Lead Decisioning consultant to design and build data collection for analytics for Telenet in Belgium
+    description4: >
+                  PEGA Lead Decisioning consultant to convert python code to decision components for batch testing for CornerBanca bank in Switzerland
+    description5: >     
+                  PEGA Technical architect of a 20+ member team managing best practice solution to customize decisioning web application for Everything Everywhere in UK.
 
-  - prof: Teaching Assistant
-    place: University of Glasgow, Glasgow, UK
-    time: 2013 to 2014
-    description: Latine bonorum deserunt at nam. Mea nisl officiis eu, propriae similique has te, mei an brute meliore electram. Quo admodum omittantur ei, etiam principes at eos. Sit vocent commodo ceteros in, at mel idque everti.
-  
-  - prof: iOS Developer
-    place: Student Start-up, Glasgow, UK
-    time: 2013
-    description: Mucius sententiae et mei, nec an diam ignota, tale epicurei intellegebat ne sit. Sumo pertinacia contentiones duo ei.
-
-  - prof: Web Developer
-    place: Birmingham, UK
-    time: 2007 to 2010
-    description: Et sed tritani volumus, dico rebum facilisis ea sed. His mundi efficiantur concludaturque no. Cu eos argumentum constituam repudiandae, eu eum lorem nostrum, ei mel dicam iriure fabellas.
-    
+  - prof: Technical System Architect
+    place: Pegasystems B.V., The Netherlands
+    time: June, 2012 to November, 2012
+    description: >
+                  PEGA Technical System architect for PEGA implementations across Europe.   
+    description1: >
+                  PEGA Technical architect provisioning infrastructure for PEGA Marketing application for FastWeb in Italy.            
+    description2: >
+                  PEGA Technical architect provisioning infrastructure, configure and design of business rules for pilot release at KPN in Netherlands.
+    description3: >
+                  PEGA Lead Technical architect of a 7 member team to provide guidance on the best practice for Decision negotiator and Next Best Action application at Vodafone in Netherlands.
+    description4: >     
+                  PEGA Lead Decisioning consultant for converting logistic regression model to predictive models from SAS for Achmea in Netherlands and BNP Paribas in Turkey.
+    description5: >
+                  PEGA Princpal consultant assisting sales deals at De Lotto, SNS Bank, Betfair, T-Mobile in Netherlands.
+                  PEGA Princpal consultant assisting sales deals at RSA, RBS, O2, Orange in U.K.
+                  PEGA Princpal consultant assisting sales deals at E-plus – Gruppe in Germany.
+                  PEGA Princpal consultant assisting sales deals at Orange and SFR in France.
+                  
+  - prof: Assistant Systems Engineer
+    place: Tata Consultancy Services B.V., The Netherlands
+    time: January, 2006 to February, 2008
+    description: >
+                  System Engineer for banking customers in Netherlands
+    description1: >
+                  Lead and manage a team of 5 developers to build multiple applications involving Struts and EJB for ACBS application and BKR applications for ABN AMRO bank in Netherlands.                  
+    description2: >
+                  Architecture design of and BKR applications for ABN AMRO bank in Netherlands.
+    description3: >
+                  Lead developer for trading application using java and web-services for ABN AMRO bank in Netherlands.
+    description4: >
+                  Senior developer for chat application using java, Genesys API and Ajax Senior developer for ABN AMRO bank in Netherlands.
+    description5: >
+                  Technical implementation manager working with a team of 40 members with an onshore offshore model responsible of production releases for ABN AMRO bank in Netherlands.
+                  
+  - prof: Programmer
+    place: Tata Consultancy Services B.V., The Netherlands
+    time: January, 2006 to February, 2008
+    description: >
+                  Senior developer to build and maintain Java Swing based application built for Billing and order management for Pepsico in India.
+                  
+  - prof: Trainee
+    place: Hypernet Solutions, India
+    time: January, 2006 to February, 2008
+    description: >
+                  Trainee to build Web application using ASP, VBScript and IIS server in India.

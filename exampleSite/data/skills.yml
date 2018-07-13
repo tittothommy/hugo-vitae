@@ -1,11 +1,24 @@
-name: Programming Skills
-title: Software engineering & web development
-source:
-  - name: [C/C++, Objective-C]
-    stars: 5
+name: Skills
+title: Rated
 
-  - name: [Java, Python, PHP, Git]
+source:
+  - name: [PEGA BPM, case management, intelligent routing, agent management, etc.]
+    stars: 5
+    
+  - name: [DEVOPS, CI, CD, monitoring using Elastic stack, Graphana, etc.]
+    stars: 4
+    
+  - name: [Decisioning products, NBAA, DSM, Recommendation Advisor, Predictive Analytics director, Adaptive decisioning services, Interaction Services, Strategy Director, Decision Planner]
     stars: 4
 
-  - name: [HTML/CSS3, Javascript]
+  - name: [Languages and O/S,Java (JSF, Swing, EJB, Hibernate, JDBC, JMS, JNDI,), XML, XSL, Web- services, ASP, Windows command language, Unix, Solaris, Windows Server, IIS]
+    stars: 4
+
+  - name: [Application server, Websphere 6, Weblogic 10, OC4J]
+    stars: 5
+    
+  - name: [Database server, Oracle 10g, 11g, NoSQL databases, Timeseries databases]
+    stars: 5
+     
+  - name: [Additional software, Nolio, Tomcat, tcserver, Stash, ANT, Maven, Mockito, JUnit, MyEclipse, JDeveloper, TOAD, SQL Developer, Subversion, CVS, JMeter, Firebug, Axis, SOAP-UI, Fitnesse, Scrum, Confluence, JIRA]
     stars: 3

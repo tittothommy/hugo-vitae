@@ -1,13 +1,19 @@
-name: Initiatives
+name: Certifications
 source:
-  - title: Graduate Summer Student
-    place: University of Glasgow, UK
-    date: 2013
-    type: courses
-    description: Nec et duis iriure temporibus, ullum adolescens eam ea.
-
-  - title: Student Volunteer
-    place: British RedCross, Glasgow, UK
-    date: 2013
-    type: fundraiser
-    description: Lorem adipiscing ei eam, eros conceptam maiestatis ne sea.
+  - title: Pega Certified Lead System Architect
+    place: The Netherlands
+    date: 2015
+    type: certification
+    description: Lead System Architect on Pega version 6
+ 
+  - title: Pega Certified Next Best Action Consultant
+    place: The Netherlands
+    date: 2014
+    type: certification
+    description: Pega marketing and next best action consultant on Pega version 6
+ 
+  - title: Sun Certified Programmer for Java 2 Platform
+    place: India
+    date: 2008
+    type: certification
+    description: Standard Edition 1.4
